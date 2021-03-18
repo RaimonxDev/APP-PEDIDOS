@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <disponible>true</disponible>
+      <id>BBA20</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>BRAVO</marca>
+      <mascota>perro</mascota>
+      <peso>20</peso>
+      <precioSugerido>44650</precioSugerido>
+      <producto>BRAVO BABY 20 KGS</producto>
+      <valorNeto>28500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>BFC20</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>BRAVO</marca>
+      <mascota>perro</mascota>
+      <peso>20</peso>
+      <precioSugerido>39600</precioSugerido>
+      <producto>BRAVO FRANGO &amp; CEREALES 20 KGS</producto>
+      <valorNeto>24900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>BFO20</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>BRAVO</marca>
+      <mascota>perro</mascota>
+      <peso>20</peso>
+      <precioSugerido>44500</precioSugerido>
+      <producto>BRAVO FORMULA  20 KGS</producto>
+      <valorNeto>28500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>COA22</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>CONNIE</marca>
+      <mascota>perro</mascota>
+      <peso>22</peso>
+      <precioSugerido>34800</precioSugerido>
+      <producto>CONNIE ADULTO 22 KG</producto>
+      <valorNeto>22300</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>COC22</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>CONNIE</marca>
+      <mascota>perro</mascota>
+      <peso>22</peso>
+      <precioSugerido>34800</precioSugerido>
+      <producto>CONNIE CACHORRO 22 KG</producto>
+      <valorNeto>23100</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>COG8</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>CONNIE</marca>
+      <mascota>gato</mascota>
+      <peso>8</peso>
+      <precioSugerido>17500</precioSugerido>
+      <producto>CONNIE GATO 8K</producto>
+      <valorNeto>11000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>DHI23</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>DIAMOND</marca>
+      <mascota>perro</mascota>
+      <peso>23</peso>
+      <precioSugerido>50000</precioSugerido>
+      <producto>DIAMOND HI ENERGY 23 KGS</producto>
+      <valorNeto>31500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>DMA23</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>DIAMOND</marca>
+      <mascota>perro</mascota>
+      <peso>23</peso>
+      <precioSugerido>48700</precioSugerido>
+      <producto>DIAMOND MAINTENANCE  23 KGS</producto>
+      <valorNeto>30600</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>DPR23</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>DIAMOND</marca>
+      <mascota>perro</mascota>
+      <peso>23</peso>
+      <precioSugerido>54000</precioSugerido>
+      <producto>DIAMOND PREMIUN 23 KGS</producto>
+      <valorNeto>33700</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>MXA15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>MAXINE ADULTO 15 KG.</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>MXA21</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>21</peso>
+      <precioSugerido>39500</precioSugerido>
+      <producto>MAXINE ADULTO 21 KG.</producto>
+      <valorNeto>25300</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>MXA22</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>22.5</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>MAXINE ADULTO 22,5 KG (3 sacos de 7,5k)</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>MXA25</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>25</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>MAXINE ADULTO 25 KG.</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>MXC15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>MAXINE CACHORRO 15 KG.</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>MXC21</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>21</peso>
+      <precioSugerido>42300</precioSugerido>
+      <producto>MAXINE CACHORRO 21 KG.</producto>
+      <valorNeto>27100</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>MXP7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>7.5</peso>
+      <precioSugerido>22000</precioSugerido>
+      <producto>MAXINE ADULTO RAZA PEQUEÑA 7.5KG</producto>
+      <valorNeto>13000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>MXG3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>gato</mascota>
+      <peso>3</peso>
+      <precioSugerido>11800</precioSugerido>
+      <producto>MAXINE GATO 3 K</producto>
+      <valorNeto>7600</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>MXG7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>gato</mascota>
+      <peso>7.5</peso>
+      <precioSugerido>20500</precioSugerido>
+      <producto>MAXINE GATO 7,5 KG</producto>
+      <valorNeto>13200</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <isNewProduct>false</isNewProduct>
+      <id>MXS15</id>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>MAXINE SENIOR 15 KG.</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>MXS21</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>MAXINE</marca>
+      <mascota>perro</mascota>
+      <peso>21</peso>
+      <precioSugerido>39600</precioSugerido>
+      <producto>MAXINE SENIOR 21 KG.</producto>
+      <valorNeto>25400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>WGA25</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>WITTS</marca>
+      <mascota>gato</mascota>
+      <peso>25</peso>
+      <precioSugerido>42500</precioSugerido>
+      <producto>WITTS ADULTO GATO 25 KG</producto>
+      <valorNeto>27400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>WGA8</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>WITTS</marca>
+      <mascota>gato</mascota>
+      <peso>8</peso>
+      <precioSugerido>15300</precioSugerido>
+      <producto>WITTS ADULTO GATO 8 KG</producto>
+      <valorNeto>9900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>WPA25</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>WITTS</marca>
+      <mascota>perro</mascota>
+      <peso>25</peso>
+      <precioSugerido>31500</precioSugerido>
+      <producto>WITTS ADULTO PERRO 25 KG</producto>
+      <valorNeto>20300</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>WPC25</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>WITTS</marca>
+      <mascota>perro</mascota>
+      <peso>25</peso>
+      <precioSugerido>33700</precioSugerido>
+      <producto>WITTS CACHORRO PERRO 25 KG</producto>
+      <valorNeto>21800</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PGA3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>gato</mascota>
+      <peso>2.7</peso>
+      <precioSugerido>22500</precioSugerido>
+      <producto>PREY FORMULA ANGUS PARA GATO 2.7 KG</producto>
+      <valorNeto>14000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PGA7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>gato</mascota>
+      <peso>6.8</peso>
+      <precioSugerido>44200</precioSugerido>
+      <producto>PREY FORMULA ANGUS PARA GATO 6,8 KG</producto>
+      <valorNeto>27500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PGP3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>gato</mascota>
+      <peso>2.7</peso>
+      <precioSugerido>22500</precioSugerido>
+      <producto>PREY FORMULA TURKEY PARA GATO 2.7 KG</producto>
+      <valorNeto>14000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PGP7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>gato</mascota>
+      <peso>6.8</peso>
+      <precioSugerido>44200</precioSugerido>
+      <producto>PREY FORMULA TURKEY PARA GATO 6,8 KG</producto>
+      <valorNeto>27500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PPA12</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>perro</mascota>
+      <peso>11.3</peso>
+      <precioSugerido>66200</precioSugerido>
+      <producto>PREY FORMULA ANGUS PARA PERRO 11.36 KG</producto>
+      <valorNeto>41200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PPA4</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>perro</mascota>
+      <peso>3.6</peso>
+      <precioSugerido>22000</precioSugerido>
+      <producto>PREY FORMULA ANGUS PARA PERRO 3.6 KG</producto>
+      <valorNeto>13700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PPP12</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>perro</mascota>
+      <peso>11.3</peso>
+      <precioSugerido>66200</precioSugerido>
+      <producto>PREY FORMULA TURKEY PARA PERRO 11.36 KG</producto>
+      <valorNeto>41200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PPP4</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>perro</mascota>
+      <peso>3.6</peso>
+      <precioSugerido>22000</precioSugerido>
+      <producto>PREY FORMULA TURKEY PARA PERRO 3.6 KG</producto>
+      <valorNeto>13700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PPT12</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>perro</mascota>
+      <peso>11.3</peso>
+      <precioSugerido>66200</precioSugerido>
+      <producto>PREY FORMULA TROUT PARA PERRO 11.36 KG (TRUCHA)</producto>
+      <valorNeto>41200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>PPT4</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>PREY</marca>
+      <mascota>perro</mascota>
+      <peso>3.6</peso>
+      <precioSugerido>22000</precioSugerido>
+      <producto>PREY FORMULA TROUT PARA PERRO 3.6 KG (TRUCHA)</producto>
+      <valorNeto>13700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TGM2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>gato</mascota>
+      <peso>2</peso>
+      <precioSugerido>16800</precioSugerido>
+      <producto>TOW ROCKY MTM FELINE 2 KG (VENADO)</producto>
+      <valorNeto>10500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TGM7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>gato</mascota>
+      <peso>6.6</peso>
+      <precioSugerido>42500</precioSugerido>
+      <producto>TOW ROCKY MTM FELINE 6.6 KG (VENADO)</producto>
+      <valorNeto>26400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TGR2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>gato</mascota>
+      <peso>2</peso>
+      <precioSugerido>16800</precioSugerido>
+      <producto>TOW CANYON RIVER FELINE 2 KG (TRUCHA)</producto>
+      <valorNeto>10500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TGR7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>gato</mascota>
+      <peso>6.6</peso>
+      <precioSugerido>42500</precioSugerido>
+      <producto>TOW CANYON RIVER FELINE 6.6 KG (TRUCHA)</producto>
+      <valorNeto>26400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TGL7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>gato</mascota>
+      <peso>6.6</peso>
+      <precioSugerido>42500</precioSugerido>
+      <producto>TOW LOWLAND CREEK FELINE 6.6 KG (PATO)</producto>
+      <valorNeto>26400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TGL2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>gato</mascota>
+      <peso>2</peso>
+      <precioSugerido>16800</precioSugerido>
+      <producto>TOW LOWLAND CREEK FELINE 2 KG (PATO)</producto>
+      <valorNeto>10500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TPA13</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>62700</precioSugerido>
+      <producto>TOW PACIFIC STREAM ADULT (SALMON) 12,2 KG</producto>
+      <valorNeto>39200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TPA18</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>18.1</peso>
+      <precioSugerido>79990</precioSugerido>
+      <producto>TOW PACIFIC STREAM ADULT (SALMON) 18,1 KG</producto>
+      <valorNeto>51690</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TPA2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>16800</precioSugerido>
+      <producto>TOW PACIFIC STREAM ADULT (SALMON) 2 KG</producto>
+      <valorNeto>10500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TPA6</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>35000</precioSugerido>
+      <producto>TOW PACIFIC STREAM ADULT (SALMON) 5,6K</producto>
+      <valorNeto>21900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TPC13</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>62700</precioSugerido>
+      <producto>TOW PACIFIC STREAM PUPPY (SALMON) 12,2K</producto>
+      <valorNeto>39200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TPC2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>16800</precioSugerido>
+      <producto>TOW PACIFIC STREAM PUPPY (SALMON) 2K</producto>
+      <valorNeto>10500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TPC6</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>35000</precioSugerido>
+      <producto>TOW PACIFIC STREAM PUPPY (SALMON) 5,6K</producto>
+      <valorNeto>21900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TWA13</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>62700</precioSugerido>
+      <producto>TOW WETLAND CANINE  ADULT (PATO) 12,2K</producto>
+      <valorNeto>39200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TWA2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>16800</precioSugerido>
+      <producto>TOW WETLAND CANINE  ADULT (PATO) 2K</producto>
+      <valorNeto>10500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TWA6</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>35000</precioSugerido>
+      <producto>TOW WETLAND CANINE  ADULT (PATO) 5,6K</producto>
+      <valorNeto>21900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>THA2</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>17000</precioSugerido>
+      <producto>TOW HIGHT PRAIRE 2 KG (Bisonte)</producto>
+      <valorNeto>11000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>THA6</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>36000</precioSugerido>
+      <producto>TOW HIGHT PRAIRE 5.6 KG (Bisonte)</producto>
+      <valorNeto>22700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>THA13</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>59000</precioSugerido>
+      <producto>TOW HIGHT PRAIRE 12.2 KG (Bisonte)</producto>
+      <valorNeto>40700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>THA18</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>18</peso>
+      <precioSugerido>0</precioSugerido>
+      <producto>TOW HIGHT PRAIRE 18.1 KG (Bisonte)</producto>
+      <valorNeto>0</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TBA2</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>17000</precioSugerido>
+      <producto>TOW SOUTHWEST CANYON BOAR 2 KG ( VACUNO &amp; JABALI )</producto>
+      <valorNeto>11000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TBA6</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>36000</precioSugerido>
+      <producto>TOW SOUTHWEST CANYON BOAR 5.6 KG ( VACUNO &amp; JABALI )</producto>
+      <valorNeto>22700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TBA13</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>59000</precioSugerido>
+      <producto>TOW SOUTHWEST CANYON BOAR 12.2 KG ( VACUNO &amp; JABALI )</producto>
+      <valorNeto>40700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TFA2</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>17000</precioSugerido>
+      <producto>TOW PINE FOREST VENISON 2 KG ( CIERVO )</producto>
+      <valorNeto>11000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TFA6</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>36000</precioSugerido>
+      <producto>TOW PINE FOREST VENISON 5.6 KG ( CIERVO )</producto>
+      <valorNeto>22700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TFA13</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>59000</precioSugerido>
+      <producto>TOW PINE FOREST VENISON 12.2 KG ( CIERVO )</producto>
+      <valorNeto>40700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>THP2</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>17000</precioSugerido>
+      <producto>TOW HIGHT PRAIRE PUPPY 2 KG( Bisonte )</producto>
+      <valorNeto>11000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>THP6</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>36000</precioSugerido>
+      <producto>TOW HIGHT PRAIRE PUPPY 5.6 KG( Bisonte )</producto>
+      <valorNeto>22700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>THP13</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>59000</precioSugerido>
+      <producto>TOW HIGHT PRAIRE PUPPY 12.2 KG( Bisonte )</producto>
+      <valorNeto>40700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TLA2</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>17000</precioSugerido>
+      <producto>TOW SIERRA MOUNTAIN LAMB 2 KG( CORDERO )</producto>
+      <valorNeto>11000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TLA6</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>36000</precioSugerido>
+      <producto>TOW SIERRA MOUNTAIN LAMB 5.6 KG ( CORDERO )</producto>
+      <valorNeto>22700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TLA13</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>59000</precioSugerido>
+      <producto>TOW SIERRA MOUNTAIN LAMB 12.2 KG ( CORDERO )</producto>
+      <valorNeto>40700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TVP2</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>17000</precioSugerido>
+      <producto>TOW APPALANCHIAN VALLEY 2 KG RAZA PEQUEÑA ( VENADO )</producto>
+      <valorNeto>11000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TVP6</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>5.6</peso>
+      <precioSugerido>36000</precioSugerido>
+      <producto>TOW APPALANCHIAN VALLEY 5.6 KG RAZA PEQUEÑA ( VENADO )</producto>
+      <valorNeto>22700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>TVP13</id>
+      <isNewProduct>true</isNewProduct>
+      <marca>TOW</marca>
+      <mascota>perro</mascota>
+      <peso>12.2</peso>
+      <precioSugerido>59000</precioSugerido>
+      <producto>TOW APPALANCHIAN VALLEY 12.2 KG RAZA PEQUEÑA ( VENADO )</producto>
+      <valorNeto>40700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGA3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>15500</precioSugerido>
+      <producto>NUTRA GOLD MEDIUM ADULT 3 KGS</producto>
+      <valorNeto>9600</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGA15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>53000</precioSugerido>
+      <producto>NUTRA GOLD MEDIUM ADULT 15 KGS</producto>
+      <valorNeto>33200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGAL15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>53000</precioSugerido>
+      <producto>NUTRA GOLD LARGE BREED ADULT DOG 15 KGS</producto>
+      <valorNeto>33200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGAS3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>15500</precioSugerido>
+      <producto>NUTRA GOLD INDOOR ADULT DOG MICROBITES 3 KGS</producto>
+      <valorNeto>10000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGAS7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>7</peso>
+      <precioSugerido>31700</precioSugerido>
+      <producto>NUTRA GOLD INDOOR ADULT DOG MICROBITES 7 KGS</producto>
+      <valorNeto>19750</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGB20</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>20</peso>
+      <precioSugerido>64000</precioSugerido>
+      <producto>NUTRA GOLD BREEDER 20 KGS</producto>
+      <valorNeto>39900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCA1</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>1</peso>
+      <precioSugerido>7000</precioSugerido>
+      <producto>NUTRA GOLD INDOOR ADULT CAT 1K</producto>
+      <valorNeto>4350</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCA3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>3</peso>
+      <precioSugerido>18300</precioSugerido>
+      <producto>NUTRA GOLD INDOOR ADULT CAT 3K</producto>
+      <valorNeto>11400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCA7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>7</peso>
+      <precioSugerido>35600</precioSugerido>
+      <producto>NUTRA GOLD INDOOR ADULT CAT 7K</producto>
+      <valorNeto>22200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCF1</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>1</peso>
+      <precioSugerido>7000</precioSugerido>
+      <producto>NUTRA GOLD FINICKY CAT 1K</producto>
+      <valorNeto>4350</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCF3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>3</peso>
+      <precioSugerido>18300</precioSugerido>
+      <producto>NUTRA GOLD FINICKY CAT 3K</producto>
+      <valorNeto>11400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCF7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>7</peso>
+      <precioSugerido>35600</precioSugerido>
+      <producto>NUTRA GOLD FINICKY CAT 7K</producto>
+      <valorNeto>22200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCK1</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>1</peso>
+      <precioSugerido>7000</precioSugerido>
+      <producto>NUTRA GOLD INDOOR KITTEN CAT 1K</producto>
+      <valorNeto>4350</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCK3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>3</peso>
+      <precioSugerido>18300</precioSugerido>
+      <producto>NUTRA GOLD INDOOR KITTEN CAT 3K</producto>
+      <valorNeto>11400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCS3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>3</peso>
+      <precioSugerido>18300</precioSugerido>
+      <producto>NUTRA GOLD H SENIOR  CAT 3K</producto>
+      <valorNeto>11400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGCS7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>gato</mascota>
+      <peso>7</peso>
+      <precioSugerido>35600</precioSugerido>
+      <producto>NUTRA GOLD H SENIOR  CAT 7K</producto>
+      <valorNeto>22200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGD14</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>14</peso>
+      <precioSugerido>57900</precioSugerido>
+      <producto>NUTRA GOLD DUCK 14K</producto>
+      <valorNeto>36200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGD2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>14100</precioSugerido>
+      <producto>NUTRA GOLD DUCK 2K</producto>
+      <valorNeto>8750</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGDS15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>53000</precioSugerido>
+      <producto>NUTRA GOLD DOG SENIOR  15K</producto>
+      <valorNeto>33200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGDS3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>15500</precioSugerido>
+      <producto>NUTRA GOLD DOG SENIOR  3K</producto>
+      <valorNeto>9600</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGP15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>55800</precioSugerido>
+      <producto>NUTRA GOLD MEDIUM PUPPY 15 KGS</producto>
+      <valorNeto>34900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGP3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>16100</precioSugerido>
+      <producto>NUTRA GOLD MEDIUM PUPPY 3 KGS</producto>
+      <valorNeto>10000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGPL15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>55800</precioSugerido>
+      <producto>NUTRA GOLD PUPPY LARGE 15 KGS</producto>
+      <valorNeto>34900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGPL3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>16100</precioSugerido>
+      <producto>NUTRA GOLD PUPPY LARGE 3 KGS</producto>
+      <valorNeto>10000</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>NGPL7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>7</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>NUTRA GOLD PUPPY LARGE 7 KGS</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGPS3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>16100</precioSugerido>
+      <producto>NUTRA GOLD PUPPY MICROBITES 3 KGS</producto>
+      <valorNeto>10000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGPS7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>7</peso>
+      <precioSugerido>31700</precioSugerido>
+      <producto>NUTRA GOLD PUPPY MICROBITES 7 KGS</producto>
+      <valorNeto>19750</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGS15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>55000</precioSugerido>
+      <producto>NUTRA GOLD SALMON 15 KGS</producto>
+      <valorNeto>34300</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGS3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>15700</precioSugerido>
+      <producto>NUTRA GOLD SALMON 3 KGS</producto>
+      <valorNeto>9700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGT14</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>14</peso>
+      <precioSugerido>57900</precioSugerido>
+      <producto>NUTRA GOLD  TURKEY 14K</producto>
+      <valorNeto>36200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGT2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>14100</precioSugerido>
+      <producto>NUTRA GOLD  TURKEY 2K</producto>
+      <valorNeto>8750</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGW14</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>14</peso>
+      <precioSugerido>57900</precioSugerido>
+      <producto>NUTRA GOLD WHITEFISH 14K</producto>
+      <valorNeto>36200</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NGW2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA GOLD</marca>
+      <mascota>perro</mascota>
+      <peso>2</peso>
+      <precioSugerido>14100</precioSugerido>
+      <producto>NUTRA GOLD WHITEFISH 2K</producto>
+      <valorNeto>8750</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>NAL15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>NUTRA NUGGETS ADULT LARGE BREED 15 KGS</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>NAL18</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>18</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>NUTRA NUGGETS ADULT LARGE BREED 18 KGS</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>NAL3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>NUTRA NUGGETS ADULT LARGE BREED 3 KGS</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NCM3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>gato</mascota>
+      <peso>3</peso>
+      <precioSugerido>14500</precioSugerido>
+      <producto>NUTRA NUGGETS MAINTENANCE CAT 3 KGS</producto>
+      <valorNeto>9000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NCM7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>gato</mascota>
+      <peso>7</peso>
+      <precioSugerido>27000</precioSugerido>
+      <producto>NUTRA NUGGETS MAINTENANCE  CAT 7 KGS</producto>
+      <valorNeto>16800</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NCP3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>gato</mascota>
+      <peso>3</peso>
+      <precioSugerido>15800</precioSugerido>
+      <producto>NUTRA NUGGETS PROFESSIONAL CAT 3 KGS</producto>
+      <valorNeto>9850</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NCP7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>gato</mascota>
+      <peso>7</peso>
+      <precioSugerido>28500</precioSugerido>
+      <producto>NUTRA NUGGETS PROFESSIONAL  CAT 7 KGS</producto>
+      <valorNeto>17800</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NLI15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>48800</precioSugerido>
+      <producto>NUTRA NUGGETS LITE/SENIOR 15 KGS</producto>
+      <valorNeto>30300</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NLI3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>14300</precioSugerido>
+      <producto>NUTRA NUGGETS LITE/SENIOR 3 KGS</producto>
+      <valorNeto>8950</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NLI7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>7.5</peso>
+      <precioSugerido>25700</precioSugerido>
+      <producto>NUTRA NUGGETS LITE/SENIOR 7,5 KGS</producto>
+      <valorNeto>16000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NMA15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>40600</precioSugerido>
+      <producto>NUTRA NUGGETS MAINTENANCE 15 KGS</producto>
+      <valorNeto>25400</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>NMA18</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>18</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>NUTRA NUGGETS MAINTENANCE 18 KGS</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NMA3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>gato</mascota>
+      <peso>3</peso>
+      <precioSugerido>12700</precioSugerido>
+      <producto>NUTRA NUGGETS MAINTENANCE 3 KGS</producto>
+      <valorNeto>7950</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NMA7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>gato</mascota>
+      <peso>7.5</peso>
+      <precioSugerido>22600</precioSugerido>
+      <producto>NUTRA NUGGETS MAINTENANCE 7,5 KGS</producto>
+      <valorNeto>14100</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPE15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>46600</precioSugerido>
+      <producto>NUTRA NUGGETS PERFORMANCE 15 KGS</producto>
+      <valorNeto>29000</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>NPE18</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>18</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>NUTRA NUGGETS PERFORMANCE 18 KGS</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPE3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>14100</precioSugerido>
+      <producto>NUTRA NUGGETS PERFORMANCE 3 KGS</producto>
+      <valorNeto>8700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPE7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>7.5</peso>
+      <precioSugerido>25700</precioSugerido>
+      <producto>NUTRA NUGGETS PERFORMANCE 7,5 KGS</producto>
+      <valorNeto>16000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPL15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>50500</precioSugerido>
+      <producto>NUTRA NUGGETS PUPPY LARGE BREED 15 KGS</producto>
+      <valorNeto>31500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPL3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>14250</precioSugerido>
+      <producto>NUTRA NUGGETS PUPPY LARGE BREED 3 KGS</producto>
+      <valorNeto>8900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPR15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>49700</precioSugerido>
+      <producto>NUTRA NUGGETS PROFESSIONAL 15 KGS</producto>
+      <valorNeto>31000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPR3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>14150</precioSugerido>
+      <producto>NUTRA NUGGETS PROFESSIONAL 3 KGS</producto>
+      <valorNeto>8800</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPR7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>7.5</peso>
+      <precioSugerido>27500</precioSugerido>
+      <producto>NUTRA NUGGETS PROFESSIONAL 7,5 KGS</producto>
+      <valorNeto>17100</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPU15</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>15</peso>
+      <precioSugerido>50500</precioSugerido>
+      <producto>NUTRA NUGGETS PUPPY 15 KGS</producto>
+      <valorNeto>31500</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPU3</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>3</peso>
+      <precioSugerido>14350</precioSugerido>
+      <producto>NUTRA NUGGETS PUPPY 3 KGS</producto>
+      <valorNeto>8900</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NPU7</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>NUTRA NUGGETS</marca>
+      <mascota>perro</mascota>
+      <peso>7.5</peso>
+      <precioSugerido>27800</precioSugerido>
+      <producto>NUTRA NUGGETS PUPPY 7,5 KGS</producto>
+      <valorNeto>17350</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>PS45</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>SABANILLA</marca>
+      <mascota>perro</mascota>
+      <peso>45</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>SABANILLA PARA PERROS 45*60 CM 10 U</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>PS60</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>SABANILLA</marca>
+      <mascota>perro</mascota>
+      <peso>60</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>SABANILLA PARA PERROS 60*60 CM 10 U</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>PS90</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>SABANILLA</marca>
+      <mascota>perro</mascota>
+      <peso>9</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>SABANILLA PARA PERROS 90*60 CM 10 U</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>ECOCO</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA ECO CLEAN</marca>
+      <mascota>gato</mascota>
+      <peso>2.8</peso>
+      <precioSugerido>3400</precioSugerido>
+      <producto>ARENA SANITARIA  ECO CLEAN TOFU MAIZ 2.8K</producto>
+      <valorNeto>2000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>ECOGT</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA ECO CLEAN</marca>
+      <mascota>gato</mascota>
+      <peso>2.8</peso>
+      <precioSugerido>3400</precioSugerido>
+      <producto>ARENA SANITARIA  ECO CLEAN TOFU TE VERDE 2.8K</producto>
+      <valorNeto>2000</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>ECOOR</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA ECO CLEAN</marca>
+      <mascota>gato</mascota>
+      <peso>2.8</peso>
+      <precioSugerido>3400</precioSugerido>
+      <producto>ARENA SANITARIA  ECO CLEAN TOFU 2.8K</producto>
+      <valorNeto>2000</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>MC2</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA MINE</marca>
+      <mascota>gato</mascota>
+      <peso>2</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>ARENA SANITARIA MINE CAT 2 KGS</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>NEO10</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA NEON CLEAN</marca>
+      <mascota>gato</mascota>
+      <peso>8.3</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>ARENA SANITARIA NEO CLEAN SCOOP 8.3 K (3u)</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>false</disponible>
+      <id>NEO5</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA NEON CLEAN</marca>
+      <mascota>gato</mascota>
+      <peso>4.15</peso>
+      <precioSugerido>20</precioSugerido>
+      <producto>ARENA SANITARIA NEO CLEAN SCOOP 4.15 K (4u)</producto>
+      <valorNeto>10</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NEON10</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA NEON CLEAN</marca>
+      <mascota>gato</mascota>
+      <peso>8.5</peso>
+      <precioSugerido>6300</precioSugerido>
+      <producto>ARENA SANITARIA NEO CLEAN 8,5 KILOS (ROMEO)</producto>
+      <valorNeto>3600</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>NEON5</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA NEON CLEAN</marca>
+      <mascota>gato</mascota>
+      <peso>5</peso>
+      <precioSugerido>4445</precioSugerido>
+      <producto>ARENA SANITARIA NEO CLEAN 5 KILOS (ROMEO)</producto>
+      <valorNeto>2400</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>ROY10</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA ROYAL CAT</marca>
+      <mascota>gato</mascota>
+      <peso>10</peso>
+      <precioSugerido>9000</precioSugerido>
+      <producto>ARENA SANITARIA  ROYAL CAT  10 KG BOLSA (2)</producto>
+      <valorNeto>4700</valorNeto>
+   </element>
+   <element>
+      <disponible>true</disponible>
+      <id>ROY5</id>
+      <isNewProduct>false</isNewProduct>
+      <marca>ARENA ROYAL CAT</marca>
+      <mascota>gato</mascota>
+      <peso>5</peso>
+      <precioSugerido>4950</precioSugerido>
+      <producto>ARENA SANITARIA  ROYAL CAT  5KG BOLSA</producto>
+      <valorNeto>2600</valorNeto>
+   </element>
+</root>

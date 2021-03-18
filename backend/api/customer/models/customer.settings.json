@@ -1,0 +1,55 @@
+{
+  "kind": "collectionType",
+  "collectionName": "customers",
+  "info": {
+    "name": "Customer",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "nombre_comercial": {
+      "type": "string",
+      "required": true
+    },
+    "email": {
+      "type": "email",
+      "required": true
+    },
+    "telefono": {
+      "type": "integer",
+      "required": true
+    },
+    "rut_empresa": {
+      "type": "string",
+      "regex": "^\\d{1,2}\\.\\d{3}\\.\\d{3}[-][0-9kK]{1}$",
+      "required": true
+    },
+    "Direccion": {
+      "type": "text",
+      "required": true
+    },
+    "Comuna": {
+      "type": "string",
+      "required": true
+    },
+    "Region": {
+      "type": "string"
+    },
+    "seller": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "customers"
+    },
+    "orders": {
+      "collection": "orders",
+      "via": "customer"
+    },
+    "nombre_representante": {
+      "type": "string"
+    }
+  }
+}
