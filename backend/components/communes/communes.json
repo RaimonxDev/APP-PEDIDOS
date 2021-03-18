@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_communes_communes",
+  "info": {
+    "name": "communes",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

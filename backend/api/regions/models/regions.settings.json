@@ -1,0 +1,17 @@
+{
+  "kind": "singleType",
+  "collectionName": "regions",
+  "info": {
+    "name": "Regions"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "data": {
+      "type": "json"
+    }
+  }
+}
