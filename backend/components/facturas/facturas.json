@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_facturas_facturas",
+  "info": {
+    "name": "facturas",
+    "icon": "file-invoice-dollar"
+  },
+  "options": {},
+  "attributes": {
+    "monto_factura": {
+      "type": "float"
+    },
+    "numero_factura": {
+      "type": "integer"
+    },
+    "factura": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}

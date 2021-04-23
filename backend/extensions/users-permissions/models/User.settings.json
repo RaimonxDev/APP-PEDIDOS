@@ -59,9 +59,63 @@
       "plugin": "users-permissions",
       "configurable": false
     },
-    "customers": {
-      "via": "seller",
-      "collection": "customer"
+    "avatar": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "orders": {
+      "collection": "orders",
+      "via": "user"
+    },
+    "rut_empresa": {
+      "type": "string",
+      "required": true,
+      "regex": "^\\d{1,2}\\d{3}\\d{3}[-][0-9kK]{1}$"
+    },
+    "region": {
+      "type": "string",
+      "required": true
+    },
+    "comuna": {
+      "type": "string",
+      "required": true
+    },
+    "nombre_representante": {
+      "type": "string",
+      "required": true
+    },
+    "direccion": {
+      "type": "string"
+    },
+    "telefono": {
+      "type": "biginteger",
+      "required": true
+    },
+    "estatusOnline": {
+      "type": "enumeration",
+      "enum": [
+        "online",
+        "ausente",
+        "ocupado",
+        "desconectado"
+      ],
+      "default": "online",
+      "required": true
+    },
+    "seller": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "customer"
+    },
+    "customer": {
+      "plugin": "users-permissions",
+      "collection": "user",
+      "via": "seller"
     }
   }
 }

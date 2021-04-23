@@ -11,15 +11,32 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "titulo": {
-      "type": "string"
-    },
-    "customer": {
-      "via": "orders",
-      "model": "customer"
-    },
     "order": {
       "type": "json"
+    },
+    "mensaje_adicional": {
+      "type": "text"
+    },
+    "transporte": {
+      "type": "text"
+    },
+    "procesada": {
+      "type": "boolean",
+      "default": false
+    },
+    "factura": {
+      "type": "component",
+      "repeatable": true,
+      "component": "facturas.facturas"
+    },
+    "pagada": {
+      "type": "boolean",
+      "default": false
+    },
+    "user": {
+      "via": "orders",
+      "plugin": "users-permissions",
+      "model": "user"
     }
   }
 }
