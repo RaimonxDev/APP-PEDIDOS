@@ -41,6 +41,26 @@
     },
     "isNewProduct": {
       "type": "boolean"
+    },
+    "stock": {
+      "type": "biginteger"
+    },
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "barcode": {
+      "type": "string"
+    },
+    "IVA": {
+      "type": "integer"
     }
   }
 }
